@@ -1,0 +1,36 @@
+site_id,site_name,city,state,country,user_count,device_count,migration_wave,planned_migration_date,actual_migration_date,site_status
+SITE001,Enterprise_Site_001,Delhi,Delhi,India,35,45,Wave 1,2026-05-31,2026-05-30,Planned
+SITE002,Enterprise_Site_002,Bengaluru,Karnataka,India,58,54,Wave 3,2026-03-17,2026-03-27,In Progress
+SITE003,Enterprise_Site_003,Gurugram,Haryana,India,112,70,Wave 4,2026-05-20,2026-05-20,Completed
+SITE004,Enterprise_Site_004,Ahmedabad,Gujarat,India,96,85,Wave 3,2026-07-29,2026-08-10,Completed
+SITE005,Enterprise_Site_005,Mumbai,Maharashtra,India,49,164,Wave 2,2026-07-04,2026-07-02,Completed
+SITE006,Enterprise_Site_006,Mumbai,Maharashtra,India,118,69,Wave 1,2026-05-15,2026-05-20,Completed
+SITE007,Enterprise_Site_007,Kolkata,West Bengal,India,54,165,Wave 4,2026-07-31,2026-08-06,Delayed
+SITE008,Enterprise_Site_008,Gurugram,Haryana,India,59,118,Wave 3,2026-03-16,2026-03-14,Completed
+SITE009,Enterprise_Site_009,Noida,Uttar Pradesh,India,65,163,Wave 5,2026-01-02,2026-01-15,Completed
+SITE010,Enterprise_Site_010,Bengaluru,Karnataka,India,135,82,Wave 2,2026-05-31,2026-06-10,Completed
+SITE011,Enterprise_Site_011,Chennai,Tamil Nadu,India,65,46,Wave 2,2026-03-17,2026-03-26,In Progress
+SITE012,Enterprise_Site_012,Mumbai,Maharashtra,India,124,115,Wave 5,2026-02-25,2026-03-10,Completed
+SITE013,Enterprise_Site_013,Bengaluru,Karnataka,India,34,91,Wave 2,2026-08-03,2026-08-14,Completed
+SITE014,Enterprise_Site_014,Delhi,Delhi,India,30,149,Wave 2,2026-04-26,2026-04-23,Completed
+SITE015,Enterprise_Site_015,Mumbai,Maharashtra,India,72,100,Wave 5,2026-04-28,2026-05-01,Planned
+SITE016,Enterprise_Site_016,Ahmedabad,Gujarat,India,51,57,Wave 5,2026-07-28,2026-08-09,Planned
+SITE017,Enterprise_Site_017,Noida,Uttar Pradesh,India,103,163,Wave 4,2026-07-06,2026-07-17,Completed
+SITE018,Enterprise_Site_018,Pune,Maharashtra,India,128,94,Wave 1,2026-04-08,2026-04-11,Completed
+SITE019,Enterprise_Site_019,Chennai,Tamil Nadu,India,121,96,Wave 5,2026-05-18,2026-05-21,Delayed
+SITE020,Enterprise_Site_020,Delhi,Delhi,India,107,50,Wave 1,2026-01-13,2026-01-22,Completed
+SITE021,Enterprise_Site_021,Kolkata,West Bengal,India,100,171,Wave 3,2026-02-15,2026-02-12,Completed
+SITE022,Enterprise_Site_022,Noida,Uttar Pradesh,India,111,61,Wave 2,2026-05-16,2026-05-22,Completed
+SITE023,Enterprise_Site_023,Chennai,Tamil Nadu,India,124,76,Wave 5,2026-06-16,2026-06-19,In Progress
+SITE024,Enterprise_Site_024,Delhi,Delhi,India,132,136,Wave 5,2026-07-29,2026-07-28,In Progress
+SITE025,Enterprise_Site_025,Hyderabad,Telangana,India,128,111,Wave 3,2026-08-10,2026-08-21,Delayed
+SITE026,Enterprise_Site_026,Gurugram,Haryana,India,38,46,Wave 5,2026-05-11,2026-05-18,Completed
+SITE027,Enterprise_Site_027,Mumbai,Maharashtra,India,78,59,Wave 2,2026-06-12,2026-06-23,Delayed
+SITE028,Enterprise_Site_028,Kolkata,West Bengal,India,137,154,Wave 5,2026-01-25,2026-02-08,Delayed
+SITE029,Enterprise_Site_029,Delhi,Delhi,India,132,124,Wave 2,2026-05-20,2026-05-28,In Progress
+SITE030,Enterprise_Site_030,Ahmedabad,Gujarat,India,146,96,Wave 2,2026-08-03,2026-08-07,Completed
+SITE031,Enterprise_Site_031,Chennai,Tamil Nadu,India,139,170,Wave 2,2026-04-28,2026-05-04,Completed
+SITE032,Enterprise_Site_032,Ahmedabad,Gujarat,India,124,88,Wave 4,2026-01-05,2026-01-04,Completed
+SITE033,Enterprise_Site_033,Noida,Uttar Pradesh,India,56,114,Wave 1,2026-04-17,2026-05-01,Delayed
+SITE034,Enterprise_Site_034,Chennai,Tamil Nadu,India,40,155,Wave 3,2026-07-29,2026-07-26,Planned
+SITE035,Enterprise_Site_035,Noida,Uttar Pradesh,India,73,121,Wave 3,2026-03-13,2026-03-11,Completed
