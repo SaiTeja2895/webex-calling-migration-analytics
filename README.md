@@ -10,8 +10,7 @@ scrolling.
 
 ## Dashboard Preview
 
-![Webex Calling Migration Analytics Dashboard
-Preview](webex-calling-migration-analytics-preview.png)
+![Webex Calling Migration Analytics Dashboard](Screenshot/Screenshot%202026-09-12%20054029.png)
 
 > **Preview:** The image above shows the current dashboard layout and
 > visualization design.
